@@ -1,4 +1,4 @@
-# Pot_of_Mercy_resourcepack
+# Pot of Mercy resourcepack / 慈雨の鉢 リソースパック
 Minecraftに天候操作アイテム「慈雨の鉢」を追加します  
 強いて言えば1.20辺りでの使用を想定しています  
 データパックと同時にご利用ください  
